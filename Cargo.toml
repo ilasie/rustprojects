@@ -1,0 +1,3 @@
+[workspace]
+members = ["guess_number"]
+resolver = "3"
